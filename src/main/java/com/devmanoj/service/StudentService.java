@@ -3,7 +3,7 @@ package com.devmanoj.service;
 import com.devmanoj.entity.Student;
 import com.devmanoj.repository.StudentRepo;
 import com.devmanoj.exception.StudentNotFoundException;
-import org.devmanoj.dto.StudentResponseDTO;
+import com.devmanoj.dto.StudentResponseDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

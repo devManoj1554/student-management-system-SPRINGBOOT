@@ -1,4 +1,4 @@
-package org.devmanoj.dto;
+package com.devmanoj.dto;
 
 import lombok.*;
 
